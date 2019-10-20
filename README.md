@@ -1,0 +1,1 @@
+Target repository for integration tests for [git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action)
